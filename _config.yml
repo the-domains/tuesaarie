@@ -1,0 +1,28 @@
+name: TueSaarie
+favicon: null
+layout_spectrum: 0.0005566333420574665
+typography_spectrum: 0.14330702414736152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6142029513139278
+  lightness: 0.00732011697255075
+  saturation: 0.9495306436438113
+  rhythmicContrast: 0.9183876411989331
+purpose: []
